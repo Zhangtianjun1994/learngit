@@ -1,6 +1,10 @@
 zhagnxuelong
 <<<<<<< HEAD
 zhangxuelong
+<<<<<<< HEAD
 =======
 zhangxuelong
+>>>>>>> feature
+=======
+hello world
 >>>>>>> feature
